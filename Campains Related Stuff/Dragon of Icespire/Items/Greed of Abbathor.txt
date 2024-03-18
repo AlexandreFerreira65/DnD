@@ -1,0 +1,6 @@
+The Amullet has 4 charges and following properties. It regains 1d4 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff loses its properties and becomes a nonmagical quarterstaff.
+
+While wearing it, you can use you action to expend 1 charge to cast Armor of Agathys or Cure Wounds Spell.
+
+You can also expend addional charges to cast the spell at a higher level (one charge per level), but only at a level you have spell slots for. 
+
