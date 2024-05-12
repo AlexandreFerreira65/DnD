@@ -1,5 +1,0 @@
-Se os jogadores visitarem a cozinha antes da oficina:
-- Uppendown sai antes dos jogadores dizendo que vai levar comida á oficina, perguntando a Dimble se quer ir com ele, ao que Dimble recusa dizendo que o que está a fazer têm de ser feito com urgencia .
-	- Ele nunca chega ao seu destino pois a mimic comeo pelo caminho na A5
-
-- O mimic encontra-se na Pantry (A5) ao inicio e depois de comer Uppendown move-se para A8
